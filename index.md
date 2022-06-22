@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## formik
 
-You can use the [editor on GitHub](https://github.com/laurenmessemer/formik/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Screen Shot 2022-06-22 at 4 24 42 PM](https://user-images.githubusercontent.com/70284444/175141262-519e5999-b33c-493f-a363-232bc5a8c200.png)
+
+
+
+## Description
+
+This Formik application is meanto serve as practice engaging with npm, React, and Formik capabilities.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### How To Run
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Fork this repository.
+- From your root folder, run npm install in your terminal.
+- Run npm to start the application in your browser.
 
-```markdown
-Syntax highlighted code block
+### Roadmap
 
-# Header 1
-## Header 2
-### Header 3
+- Add more fields for data collection.
+- Add UX design for a better looking interface.
+- Add different types of data collection fields, (ie. range, drop down menus, etc...)
 
-- Bulleted
-- List
+### License
 
-1. Numbered
-2. List
+MIT License
 
-**Bold** and _Italic_ and `Code` text
+Copyright (c) 2022 Lauren Messemer
 
-[Link](url) and ![Image](src)
-```
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/laurenmessemer/formik/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
