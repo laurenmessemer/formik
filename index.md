@@ -8,8 +8,6 @@
 
 This Formik application is meanto serve as practice engaging with npm, React, and Formik capabilities.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### How To Run
 
 - Fork this repository.
